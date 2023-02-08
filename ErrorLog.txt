@@ -1,0 +1,7 @@
+-----------------
+Date: 20/01/2023
+Error: Billing information
+Extra: Currently know what the issue is and so fixes will be rolled out tomorrow.
+-----------------
+New Changelog
+-----------------
